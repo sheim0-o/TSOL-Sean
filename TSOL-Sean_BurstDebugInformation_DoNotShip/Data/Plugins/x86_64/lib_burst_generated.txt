@@ -131,7 +131,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_ANIMATION_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
---linker-options=PdbAltPath="TheSoulsOfLovers: Seans's story_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="TSOL-Sean_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\GitHub\TheSoulsOfLovers\TheSoulsOfLovers\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\GitHub\TheSoulsOfLovers\TheSoulsOfLovers\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -302,7 +302,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_ANIMATION_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
---linker-options=PdbAltPath="TheSoulsOfLovers: Seans's story_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="TSOL-Sean_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\GitHub\TheSoulsOfLovers\TheSoulsOfLovers\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\GitHub\TheSoulsOfLovers\TheSoulsOfLovers\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
